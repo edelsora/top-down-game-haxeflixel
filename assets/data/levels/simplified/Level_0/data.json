@@ -1,0 +1,25 @@
+{
+	"x": 0,
+	"y": 0,
+	"width": 256,
+	"height": 256,
+	"iid": "4399c800-5110-11ed-811e-c1c68584c6dc",
+	"layers": [
+		"Terrain.png"
+	],
+	"entities": {
+		"Player": [
+			{
+				"id": "Player",
+				"iid": "a798ab20-5110-11ed-976a-09579cb0d6f2",
+				"layer": "PlayerPosition",
+				"x": 32,
+				"y": 32,
+				"width": 32,
+				"height": 32,
+				"color": 13899335,
+				"customFields" : {}
+			}
+		]
+	}
+}
